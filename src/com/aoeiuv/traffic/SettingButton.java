@@ -4,7 +4,7 @@
 	^> Mail: 490674483@qq.com
 	^> Created Time: 2016/03/02 - 17:05:03
 *************************************************** */
-package com.aoeiuv020.traffic;
+package com.aoeiuv.traffic;
 import com.aoeiuv020.widget.*;
 import android.view.ViewGroup;
 import android.view.View;

@@ -5,7 +5,7 @@
 #		^> Created Time: 2015/12/23 - 20:28:14
 #	***************************************************
 name=traffic
-pack="com.aoeiuv020.traffic"
+pack="com.aoeiuv.traffic"
 .PHONY:all ndk build install start
 all:build install start
 	echo OK...
